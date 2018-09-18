@@ -1,7 +1,8 @@
-#include <iostrem>
+#include <iostream>
 using namespace std;
 
 int main(){
-    int x = y;
+    int x = 10;
+    int y = 20;
     return 0;
 }
