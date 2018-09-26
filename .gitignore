@@ -2,3 +2,6 @@
 .vscode/launch.json
 .vscode/tasks.json
 Bin/*.exe
+Source/M/*.exe
+Source/E/*.exe
+Source/H/*.exe
